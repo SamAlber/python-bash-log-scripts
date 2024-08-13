@@ -6,7 +6,7 @@
 
 get_first_line() {
     local path="$1"
-    read -r first_line < "$path"
+    read -r first_line < "$path" # Could have used head -n 1 "$path" instead of read and echo 
     echo "$first_line"
 }
 
