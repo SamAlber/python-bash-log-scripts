@@ -1,3 +1,3 @@
-# Simple Scripts
+# Python Log Parsing Scripts (II Variant)
 
-This repository shows some of my scripts for exam.log script format 
+This repository shows a demonstraion of a variety of python scripts for retrieving information from the testlog log file. 
